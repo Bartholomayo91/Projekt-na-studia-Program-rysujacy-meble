@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meble II", "Meble II\Meble II.csproj", "{C12E5C52-2CE1-4DEE-AA9D-D17CA459F9AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C12E5C52-2CE1-4DEE-AA9D-D17CA459F9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C12E5C52-2CE1-4DEE-AA9D-D17CA459F9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C12E5C52-2CE1-4DEE-AA9D-D17CA459F9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C12E5C52-2CE1-4DEE-AA9D-D17CA459F9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83891B0E-D8B7-488A-8649-FE6A4EB1D8D5}
+	EndGlobalSection
+EndGlobal

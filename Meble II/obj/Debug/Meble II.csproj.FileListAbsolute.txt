@@ -1,0 +1,6 @@
+D:\STRUDIA - Inf PO\sem III\Programowanie II - C#\cwiczenia\Meble II\Meble II\obj\Debug\Meble II.csprojAssemblyReference.cache
+D:\STRUDIA - Inf PO\sem III\Programowanie II - C#\cwiczenia\Meble II\Meble II\obj\Debug\Meble II.csproj.CoreCompileInputs.cache
+D:\STRUDIA - Inf PO\sem III\Programowanie II - C#\cwiczenia\Meble II\Meble II\bin\Debug\Meble II.exe
+D:\STRUDIA - Inf PO\sem III\Programowanie II - C#\cwiczenia\Meble II\Meble II\bin\Debug\Meble II.pdb
+D:\STRUDIA - Inf PO\sem III\Programowanie II - C#\cwiczenia\Meble II\Meble II\obj\Debug\Meble II.exe
+D:\STRUDIA - Inf PO\sem III\Programowanie II - C#\cwiczenia\Meble II\Meble II\obj\Debug\Meble II.pdb
